@@ -1,0 +1,21 @@
+body {
+    margin: 0%;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    background-color: aqua;
+}
+
+h1 {
+    margin-left: 100px;
+    margin: auto;
+    font-size: 40px;
+}
+
+li {
+    font-size: 30px;
+}
+
+
